@@ -1,0 +1,2 @@
+Exceptions.lua and SCS.lua are ModuleScripts.
+Exceptions.lua must be child of SCS.lua
